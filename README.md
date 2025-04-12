@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @fa-kl
-- 👀 I’m interested in Robotics, Intelligence, Electrical Engineering.
-- 🌱 I’m currently learning ... 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hi, I’m Fabian (@fa-kl),
+
+I’ve recently finished my M.Sc. in Electrical Engineering at the Technical University of Munich, 
+My interests are Control Theory and Robotics and Simulations - I'm currently developing my own rigid body simulator in Julia. Feel free to contact me any time.
 
 <!---
 fa-kl/fa-kl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
